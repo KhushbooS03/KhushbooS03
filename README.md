@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KhushbooS03
+- 👋 Hi, I’m @Khushboo Sharma
 - 👀 I’m interested in NGS, Machine Learning, AI
 - 🌱 I’m currently learning  Next Generation Sequencing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to work on projects related to bioinformatics, Next Genration Sequencing
 - 📫 How to reach me sharma.khushiks03@GMAIL.COM
 
 <!---
